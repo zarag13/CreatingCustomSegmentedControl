@@ -13,6 +13,7 @@
 		ED1CD7012A4F1D85003DE5DA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ED1CD6FF2A4F1D85003DE5DA /* Main.storyboard */; };
 		ED1CD7032A4F1D89003DE5DA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ED1CD7022A4F1D89003DE5DA /* Assets.xcassets */; };
 		ED1CD7062A4F1D89003DE5DA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ED1CD7042A4F1D89003DE5DA /* LaunchScreen.storyboard */; };
+		ED5249BA2A83EAAF001D7C23 /* CreatingCustomImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED5249B92A83EAAF001D7C23 /* CreatingCustomImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		ED1CD7022A4F1D89003DE5DA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ED1CD7052A4F1D89003DE5DA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ED1CD7072A4F1D89003DE5DA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ED5249B92A83EAAF001D7C23 /* CreatingCustomImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreatingCustomImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				ED1CD6F92A4F1D85003DE5DA /* AppDelegate.swift */,
 				ED1CD6FB2A4F1D85003DE5DA /* SceneDelegate.swift */,
 				ED1CD6FD2A4F1D85003DE5DA /* ViewController.swift */,
+				ED5249B92A83EAAF001D7C23 /* CreatingCustomImage.swift */,
 				ED1CD6FF2A4F1D85003DE5DA /* Main.storyboard */,
 				ED1CD7022A4F1D89003DE5DA /* Assets.xcassets */,
 				ED1CD7042A4F1D89003DE5DA /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				ED1CD6FE2A4F1D85003DE5DA /* ViewController.swift in Sources */,
 				ED1CD6FA2A4F1D85003DE5DA /* AppDelegate.swift in Sources */,
 				ED1CD6FC2A4F1D85003DE5DA /* SceneDelegate.swift in Sources */,
+				ED5249BA2A83EAAF001D7C23 /* CreatingCustomImage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
